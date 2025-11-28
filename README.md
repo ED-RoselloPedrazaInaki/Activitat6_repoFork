@@ -103,6 +103,8 @@ El mètode imprimirà el teu nom i una felicitació i desig per a l'Any Nou.
 
 
 #### AlumneFila4 PC4:
+El meu nom és Iñaki Rosello Pedraza
+He modificat el mètode AlumneFila4PC4(), afegint un missatge que mostra el meu nom i el meu proposit de Cap d’Any.
 
 
 #### AlumneFila4 PC5:
