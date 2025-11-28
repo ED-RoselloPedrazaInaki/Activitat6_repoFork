@@ -184,6 +184,8 @@ public class principal {
 		}
 
 		private static void AlumneFila4PC4() {
+			System.out.println("El meu nom és Iñaki Roselló Pedraza");
+			System.out.println("Hacer un cambio fisico");
 
 		}
 
